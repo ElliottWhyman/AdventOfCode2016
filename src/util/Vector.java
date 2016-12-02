@@ -1,4 +1,4 @@
-package day1;
+package util;
 
 import com.google.common.collect.HashBasedTable;
 import com.google.common.collect.Table;
